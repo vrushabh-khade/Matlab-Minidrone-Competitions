@@ -1,6 +1,6 @@
 # Autonomous Minidrone Line Tracking & Precision Auto-Landing
 
-**Developer:** Vrushabhkumar Vasantrao Khade  
+**Developer:** Vrushabhkumar Khade  
 **Department:** Automation and Robotics, MES Wadia College of Engineering (Team Aviate)  
 
 ## Project Overview
